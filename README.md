@@ -1,4 +1,4 @@
-<h2 align="center">👋 Lee Dong Geon 👋</h2>
+<h2 align="center"> Lee Dong Geon </h2>
         <p align="center">
         <h3 align="center">SNS</h2>
         </p>
