@@ -1,4 +1,5 @@
 <h2 align="center"> Lee Dong Geon </h2>
+<h3 align="center"> 2005 01 22 </h3>
         <p align="center">
         <h3 align="center">SNS</h2>
         </p>
